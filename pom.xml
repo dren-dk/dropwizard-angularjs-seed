@@ -121,7 +121,7 @@ Not releasded yet and I don't want to depend on a locally compiled artifact, so 
       <dependency>
           <groupId>junit</groupId>
           <artifactId>junit</artifactId>
-          <version>4.12</version>
+          <version>4.13.1</version>
       </dependency>
 
   </dependencies>
